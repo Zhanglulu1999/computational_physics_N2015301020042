@@ -2,5 +2,11 @@
 
 #Homework List
 -Exercise-01：
+
+1.安装python
+
+2.创建github账号
+
 -Exercies-02:
+
 -Exercise-03:
