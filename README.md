@@ -15,6 +15,6 @@
 
 -Exercise-03:
 
-1.让自己的名字在屏幕上动起来：
+1.让自己的名字在屏幕上动起来：https://code.csdn.net/snippets/1894790/master/snippet_file_0.txt/raw
 
-2.在80*80的点阵上拼房子，并让它旋转起来：https://code.csdn.net/snippets/1894703/master/snippet_file_0.txt/raw
+2.在80*80的点阵上拼房子，并让它旋转起来：
