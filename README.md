@@ -11,7 +11,7 @@
 
 -Exercies-02:
 
-.让自己的名字出现在屏幕上：https://code.csdn.net/snippets/1894582.git
+.让自己的名字出现在屏幕上：https://code.csdn.net/snippets/1894703/master/snippet_file_0.txt/raw
 
 -Exercise-03:
 
