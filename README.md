@@ -12,4 +12,7 @@
 -Exercies-02:
 
 .让自己的名字出现在屏幕上：【名字】（https://code.csdn.net/snippets/1894582.git）
+
 -Exercise-03:
+
+1.让自己的名字在屏幕上动起来：
