@@ -11,10 +11,10 @@
 
 -Exercies-02:
 
-.让自己的名字出现在屏幕上：https://code.csdn.net/snippets/1894703/master/snippet_file_0.txt/raw
+.让自己的名字出现在屏幕上：https://code.csdn.net/snippets/1894703
 
 -Exercise-03:
 
-1.让自己的名字在屏幕上动起来：https://code.csdn.net/snippets/1894790/master/snippet_file_0.txt/raw
+1.让自己的名字在屏幕上动起来：https://code.csdn.net/snippets/1900203
 
 2.在80*80的点阵上拼房子，并让它旋转起来：
