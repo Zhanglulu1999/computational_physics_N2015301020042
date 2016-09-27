@@ -11,7 +11,7 @@
 
 -Exercies-02:
 
-.让自己的名字出现在屏幕上：
+.让自己的名字出现在屏幕上：https://github.com/Zhanglulu1999/computational_physics_N2015301020042/blob/master/name
 
 -Exercise-03:
 
