@@ -15,6 +15,6 @@
 
 -Exercise-03:
 
-1.让自己的名字在屏幕上动起来：https://code.csdn.net/snippets/1900203
+1.让自己的名字在屏幕上动起来：https://github.com/Zhanglulu1999/computational_physics_N2015301020042/blob/master/movename
 
-2.在80*80的点阵上拼房子，并让它旋转起来：
+2.让房子能冒烟：
