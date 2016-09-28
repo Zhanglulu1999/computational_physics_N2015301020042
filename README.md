@@ -10,7 +10,7 @@
 
 -[Exercise-03'GIF](https://github.com/Zhanglulu1999/computational_physics_N2015301020042/blob/master/GIF.gif)
 
-—[GIF]()
+—[GIF](https://github.com/Zhanglulu1999/computational_physics_N2015301020042/blob/master/smile.gif)
 
 -[Excecise-03"](https://github.com/Zhanglulu1999/computational_physics_N2015301020042/blob/master/rotation.py)
 
