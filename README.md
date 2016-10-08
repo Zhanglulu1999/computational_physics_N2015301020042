@@ -16,4 +16,4 @@
 
 -[Excecise-03"GIF]()
 
--[Excecise-04](https://github.com/Zhanglulu1999/computational_physics_N2015301020042/blob/master/IMG_20161006_194643.jpg)
+-[Excecise-04](https://www.zybuluo.com/zhanglulu/note/508522)
