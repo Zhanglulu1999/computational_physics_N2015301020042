@@ -17,3 +17,5 @@
 -[Excecise-04](https://www.zybuluo.com/zhanglulu/note/508522)
 
 -[Excecise-05](https://www.zybuluo.com/zhanglulu/note/533751)
+
+-[Excecise-06](https://www.zybuluo.com/zhanglulu/note/541320)
