@@ -20,4 +20,4 @@
 
 -[Excecise-06](https://www.zybuluo.com/zhanglulu/note/541320)
 
--[Excecise-07](https://www.zybuluo.com/zhanglulu/note/550750)
+-[Excecise-07](https://www.zybuluo.com/zhanglulu/note/550160)
