@@ -22,4 +22,4 @@
 
 -[Excecise-07](https://www.zybuluo.com/zhanglulu/note/550160)
 
--[Excecise-o8](https://www.zybuluo.com/zhanglulu/note/567779)
+-[Excecise-08](https://www.zybuluo.com/zhanglulu/note/567779)
