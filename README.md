@@ -8,10 +8,6 @@
 
 -[Exercise-03'](https://github.com/Zhanglulu1999/computational_physics_N2015301020042/blob/master/movename)
 
--[Exercise-03'GIF](https://github.com/Zhanglulu1999/computational_physics_N2015301020042/blob/master/GIF.gif)
-
-—[GIF](https://github.com/Zhanglulu1999/computational_physics_N2015301020042/blob/master/smile.gif)
-
 -[Excecise-03"](https://github.com/Zhanglulu1999/computational_physics_N2015301020042/blob/master/rotation.py)
 
 -[Excecise-04](https://www.zybuluo.com/zhanglulu/note/508522)
@@ -31,3 +27,5 @@
 -[Excecise-11](https://www.zybuluo.com/zhanglulu/note/588245)
 
 -[Excecise-12](https://www.zybuluo.com/zhanglulu/note/597486)
+
+-[Excecise-13](https://www.zybuluo.com/zhanglulu/note/605912)
